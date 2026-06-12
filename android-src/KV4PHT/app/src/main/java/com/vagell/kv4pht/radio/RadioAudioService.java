@@ -144,11 +144,11 @@ public class RadioAudioService extends Service {
     @Setter
     private float min2mTxFreq = 144.0f;
     @Setter
-    private float max2mTxFreq = 148.0f;
+    private float max2mTxFreq = 159.0f;
     @Setter
     private float min70cmTxFreq = 420.0f;
     @Setter
-    private float max70cmTxFreq = 450.0f;
+    private float max70cmTxFreq = 470.0f;
 
     @Setter
     private float minTxFreq = min2mTxFreq;
